@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "647625747550",
+    "firebase_url": "https://katiba-app-c9481.firebaseio.com",
+    "project_id": "katiba-app-c9481",
+    "storage_bucket": "katiba-app-c9481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647625747550:android:beef5bb3b162c265",
+        "android_client_info": {
+          "package_name": "com.example.abedkiloo.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647625747550-ul4m1huusb715ohhgsogquqlflnlosal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abedkiloo.notification",
+            "certificate_hash": "1b2cfbca5565d5376a780765feaca660adcddfc9"
+          }
+        },
+        {
+          "client_id": "647625747550-eojagpse0e8uqaklvaaheief4rkq088c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "647625747550-eojagpse0e8uqaklvaaheief4rkq088c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjnq7z9tl63iMB0s2lmx4t-7CIdEoXkFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647625747550-eojagpse0e8uqaklvaaheief4rkq088c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647625747550:android:a02f7b25c29f6475",
+        "android_client_info": {
+          "package_name": "com.example.marko.firebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647625747550-eojagpse0e8uqaklvaaheief4rkq088c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "647625747550-eojagpse0e8uqaklvaaheief4rkq088c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjnq7z9tl63iMB0s2lmx4t-7CIdEoXkFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
